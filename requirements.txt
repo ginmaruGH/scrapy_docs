@@ -14,6 +14,8 @@ itemadapter==0.8.0
 itemloaders==1.1.0
 jmespath==1.0.1
 lxml==4.9.2
+mypy==1.4.0
+mypy-extensions==1.0.0
 packaging==23.1
 parsel==1.8.1
 Protego==0.2.1
@@ -29,6 +31,7 @@ Scrapy==2.9.0
 service-identity==23.1.0
 six==1.16.0
 tldextract==3.4.4
+tomli==2.0.1
 Twisted==22.10.0
 typing_extensions==4.6.3
 urllib3==2.0.3
